@@ -2,4 +2,4 @@ type: simple #static or simple
 server: http://47.88.188.200:8000
 articles:
   - gitireadme-testB/test
-  - tensorflow/tensorflow
+  - unhidea/idea
