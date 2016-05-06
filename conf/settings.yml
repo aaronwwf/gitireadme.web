@@ -1,4 +1,4 @@
 type: simple #static or simple 
-server: http://api.gitiread.me
+server: http://47.88.188.200:8000
 articles:
   - gitireadme-testB/test
